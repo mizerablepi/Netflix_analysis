@@ -4,6 +4,7 @@ EDA on the netflix movies/shows dataset available on kaggle
 Folders:<br>
 Data: Contains the data used in this notebook.<br>
 Plot: Contains the plots from the notebook 
+instructions.md contains steps to run the notebook.
 
 ## Questions we answer using the dataset:
 1. What is the most popular release year for movies on netflix?
